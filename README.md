@@ -1,3 +1,5 @@
+#NOTE: THIS IS A TEMP PACKAGE WHILE I WAIT FOR CHANGES TO BE MERGED TO "react-player-controls" IF YOU ARE LOOKING FOR "react-player-controls"[HERE IS THE LINK](https://www.npmjs.com/package/react-player-controls)
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/alexanderwallin/react-player-controls/master/docs/img/logo-icon.svg" width="100" height="100" />
   <br />
@@ -5,12 +7,6 @@
   <br />
   &nbsp;
 </h1>
-
-[![npm version](https://badge.fury.io/js/react-player-controls.svg)](https://badge.fury.io/js/react-player-controls)
-[![Build Status](https://travis-ci.org/alexanderwallin/react-player-controls.svg?branch=master)](https://travis-ci.org/alexanderwallin/react-player-controls)
-![unstable](https://img.shields.io/badge/status-unstable-yellow.svg)
-[![Dependencies](https://img.shields.io/david/alexanderwallin/react-player-controls.svg?style=flat-square)](https://david-dm.org/alexanderwallin/react-player-controls)
-[![Dev dependency status](https://david-dm.org/alexanderwallin/react-player-controls/dev-status.svg?style=flat-square)](https://david-dm.org/alexanderwallin/react-player-controls#info=devDependencies)
 
 This is a set of modular, tested and hopefully useful React components for composing media players. This library does not deal with actual media in any way, only the UI.
 

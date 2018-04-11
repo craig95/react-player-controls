@@ -1,6 +1,6 @@
 {
-  "name": "react-player-controls",
-  "version": "0.5.18",
+  "name": "react-player-controls-temp",
+  "version": "0.5.20",
   "description": "UI components for media players",
   "main": "dist/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexanderwallin/react-player-controls.git"
+    "url": "git+https://https://github.com/craig95/react-player-controls.git#progress-bar-buffer"
   },
   "author": "Reactify <developer@reactifymusic.com> (http://reactifymusic.com)",
   "contributors": [
